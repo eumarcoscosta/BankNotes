@@ -1,0 +1,15 @@
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/BankNotes/BankNotes/BankNotes/bin/Debug/net7.0/BankNotes
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/BankNotes/BankNotes/BankNotes/bin/Debug/net7.0/BankNotes.deps.json
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/BankNotes/BankNotes/BankNotes/bin/Debug/net7.0/BankNotes.runtimeconfig.json
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/BankNotes/BankNotes/BankNotes/bin/Debug/net7.0/BankNotes.dll
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/BankNotes/BankNotes/BankNotes/bin/Debug/net7.0/BankNotes.pdb
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/BankNotes/BankNotes/BankNotes/obj/Debug/net7.0/BankNotes.csproj.AssemblyReference.cache
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/BankNotes/BankNotes/BankNotes/obj/Debug/net7.0/BankNotes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/BankNotes/BankNotes/BankNotes/obj/Debug/net7.0/BankNotes.AssemblyInfoInputs.cache
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/BankNotes/BankNotes/BankNotes/obj/Debug/net7.0/BankNotes.AssemblyInfo.cs
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/BankNotes/BankNotes/BankNotes/obj/Debug/net7.0/BankNotes.csproj.CoreCompileInputs.cache
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/BankNotes/BankNotes/BankNotes/obj/Debug/net7.0/BankNotes.dll
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/BankNotes/BankNotes/BankNotes/obj/Debug/net7.0/refint/BankNotes.dll
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/BankNotes/BankNotes/BankNotes/obj/Debug/net7.0/BankNotes.pdb
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/BankNotes/BankNotes/BankNotes/obj/Debug/net7.0/BankNotes.genruntimeconfig.cache
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/BankNotes/BankNotes/BankNotes/obj/Debug/net7.0/ref/BankNotes.dll
